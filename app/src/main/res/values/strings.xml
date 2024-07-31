@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FruitsDetectionApp</string>
+    <string name="take_action">Take Action</string>
+    <string name="import_image">First import your image using camera</string>
+    <string name="fruit_is">Your fruit is:</string>
+    <string name="click_result">Click on the result to know more</string>
+</resources>
